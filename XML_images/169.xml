@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stop</folder>
+	<filename>169.jpg</filename>
+	<path>C:\Users\Hp\Downloads\stop\169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>18</ymin>
+			<xmax>62</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>
